@@ -2,12 +2,12 @@
 Dynamic planning 2
 
 
-## 
+## 62.Unique Paths, 63.Unique Paths II
 July 06, 2023  4h
 
 Congratulations!\
 This is the 33th day for leetcode python study. Today we will learn about the Dynamic planning!\
-The challenges today are especially about unique pathes to a destination. 
+The challenges today are especially about unique paths to a destination. 
 
 
 ## 62.Unique Paths
